@@ -17,8 +17,8 @@ const Arr = [
   {id : 9,name : "բաճկոն",date: "15.05.2023",count : 10, price : 9900},
   {id : 10,name : "թիկնոց",date: "18.05.2023",count : 10, price : 5509},
   {id : 11,name : "շապիկ",date: "23.05.2023",count : 30, price : 3400},
-  {id : 11,name : "վերարկու",date: "23.05.2023",count : 20, price : 15000},
-  {id : 11,name : "ձեռնոց",date: "27.05.2023",count : 30, price : 900},
+  {id : 12,name : "վերարկու",date: "23.05.2023",count : 20, price : 15000},
+  {id : 13,name : "ձեռնոց",date: "27.05.2023",count : 30, price : 900},
 ]
 let priceResult = 0
 let res = Arr.reduce((aggr, el)=>{
